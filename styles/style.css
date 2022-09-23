@@ -4,7 +4,7 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-image: linear-gradient(to right, #ffffff, #111111);
+  background-image: linear-gradient(to right, #ff3838, #ffd270);
 }
 
 div {
@@ -56,4 +56,4 @@ h2,
 h3 {
   font-size: 2rem;
   opacity: 0.6;
-}/*# sourceMappingURL=style.css.map */
+} /*# sourceMappingURL=style.css.map */

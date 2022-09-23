@@ -22,7 +22,6 @@ function getRandomColor() {
   }
   return color;
 }
-
 function showRandomColor() {
   let randomColor1 = getRandomColor();
   let randomColor2 = getRandomColor();
